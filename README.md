@@ -11,7 +11,7 @@ A simple JavaFX application with login, registration, and welcome screens.
 
 The application has been successfully built and is ready to run!!!
 
-To rebuild the application:
+To rebuild the application:::
 
 ```bash
 mvn clean package -s settings.xml
